@@ -4,6 +4,8 @@
  */
 package homework1_ooc;
 
+import ioutils.IOUtils;
+
 /**
  *
  * @author caroo
@@ -14,7 +16,11 @@ public class Homework1_OOC {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+       IOUtils form = new IOUtils();
+       
+       
+        
     }
     
 }
