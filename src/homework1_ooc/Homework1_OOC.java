@@ -24,6 +24,9 @@ public class Homework1_OOC {
         
         name = form.getUserText("Please, enter your name."); //get user name
        
+       int age;
+        
+        age = form.getUserInt("Please, enter your age."); //get user age
         
     }
     
