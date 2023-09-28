@@ -28,6 +28,11 @@ public class Homework1_OOC {
         
         age = form.getUserInt("Please, enter your age."); //get user age
         
+        
+        String country;
+        
+        country = form.getUserText("Which country are you from?"); //get user country
+        
     }
     
 }
