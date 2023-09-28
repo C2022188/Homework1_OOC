@@ -18,7 +18,11 @@ public class Homework1_OOC {
     public static void main(String[] args) {
         
        IOUtils form = new IOUtils();
+       //it will be created a form to get user personal details
        
+       String name;
+        
+        name = form.getUserText("Please, enter your name."); //get user name
        
         
     }
